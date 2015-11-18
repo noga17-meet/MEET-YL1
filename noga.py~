@@ -1,0 +1,4 @@
+import meet.py
+
+ball={"x": 2, "y": 8, "dy": 3, "dx": 5, "radios": 6}
+
